@@ -1,0 +1,16 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    padding: 30px;
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+span{
+    font-size: 20px;
+    text-align: center;
+}
